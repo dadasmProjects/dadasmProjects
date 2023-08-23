@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/> <a href="https://www.linkedin.com/in/david-smith-6b4606164">IT Professional</a>,
+<h1>Hi, I'm David! <br/> <a href="https://www.linkedin.com/in/david-smith-6b4606164">IT Professional</a>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
