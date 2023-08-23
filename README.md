@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Email Web Scraping Lab (AlgoExpert)</b>
+- <b>Email Web Scraping Lab </b>
   - [Email Web Scraper](https://github.com/dadasmProjects/WebScrapingLab)
 
 
